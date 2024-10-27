@@ -38,6 +38,7 @@
 - `Add from local to github`
   - git push origin main
   - git push
+  - git push -u origin new-branch
 
 - `Create branch to github`
   - git branch 'branch-name'
@@ -48,4 +49,17 @@
 
 - `Create and Switch branch`
   - git checkout -b 'branch-name'
+
+- `Update Repo`
+  - git pull
+
+- `Merge branch item`
+  - Pull request
+  - Submit
+  - Merge request
+  - Submit
+  - Done!
+
+- `Update local myRepo`
+  - git pull origin main
 

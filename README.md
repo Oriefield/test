@@ -15,3 +15,12 @@
 - `Repository default Branch`
   - git config --global init.defaultBranch main
 
+- `Add my file to Repository`
+  - git add <file_path>
+
+- `Commit my operation`
+  - git commit -m 'commit comment'
+
+- `Check Repo status`
+  - git status
+

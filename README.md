@@ -17,10 +17,14 @@
 
 - `Add my file to Repository`
   - git add <file_path>
+  - git add ./
 
 - `Commit my operation`
   - git commit -m 'commit comment'
 
 - `Check Repo status`
   - git status
+
+- `Check Repo log`
+  - git log
 
